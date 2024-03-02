@@ -4,7 +4,7 @@ Solución al Kata de Codewars llamado Connect4 en Java
 
 https://www.codewars.com/kata/586c0909c1923fdb89002031/java
 
-En este Kata se nos plantea la tarea de programa la lógica detrás del popular juego Conecta 4.
+En este Kata se nos plantea la tarea de programar la lógica detrás del popular juego Conecta 4.
 
 * La zona de jeugo consta de 7 columnas y 6 filas.
 * El input será un array de integers que representarán en qué columna decide el jugador lanzar la ficha.
