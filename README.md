@@ -6,7 +6,7 @@ https://www.codewars.com/kata/586c0909c1923fdb89002031/java
 
 En este Kata se nos plantea la tarea de programar la lógica detrás del popular juego Conecta 4.
 
-* La zona de jeugo consta de 7 columnas y 6 filas.
+* La zona de juego consta de 7 columnas y 6 filas.
 * El input será un array de integers que representarán en qué columna decide el jugador lanzar la ficha.
 * Debemos tener en cuenta que después de una jugada válida, en el siguiente turno cambiará el jugador.
 * Cuando un jugador consiga alinear 4 fichas vertical, horizontal o diagonalmente, deberá aparecer el mensaje "Player N wins", donde los jugadores serán 1 y 2.
